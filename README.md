@@ -1,6 +1,8 @@
 # checkPalindrome - Challenge
 
 Statement: Given the string, check if it is a palindrome.
+Input = String
+Output = boolean
 
 For Example:
       
